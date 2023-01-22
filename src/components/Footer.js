@@ -32,6 +32,15 @@ function Footer() {
           </div>
         </div>
       </div>
+      <section className="social-media">
+        <div className="social media-wrap">
+          <div className="footer-logo">
+            <Link to="/" className="social-logo">
+              ACN <i className="fab fa-typo3" />
+            </Link>
+          </div>
+        </div>
+      </section>
     </div>
   );
 }
