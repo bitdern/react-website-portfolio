@@ -1,6 +1,6 @@
 import React from "react";
-import Carditem from "./Carditem";
 import "./Cards.css";
+import Carditem from "./Carditem";
 
 function Cards() {
   return (
@@ -39,7 +39,7 @@ function Cards() {
               src="images/img-8.jpg"
               text="Text highlighting the blog or project"
               label="Resume"
-              path="/React-Out"
+              path="/Reach-Out"
             />
           </ul>
         </div>
