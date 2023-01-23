@@ -36,7 +36,34 @@ function Footer() {
         <div className="social media-wrap">
           <div className="footer-logo">
             <Link to="/" className="social-logo">
-              ACN <i className="fab fa-typo3" />
+              ACN <i className="fa-solid fa-bolt" />
+            </Link>
+          </div>
+          <small className="website-rights">ACN 2023</small>
+          <div className="social-icons">
+            <Link
+              className="social-icon-link linkedin"
+              to="/"
+              target="_blank"
+              aria-label="LinkedIn"
+            >
+              <i className="fa-brands fa-linkedin" />
+            </Link>
+            <Link
+              className="social-icon-link github"
+              to="/"
+              target="_blank"
+              aria-label="GitHub"
+            >
+              <i className="fa-brands fa-github" />
+            </Link>
+            <Link
+              className="social-icon-link twitter"
+              to="/"
+              target="_blank"
+              aria-label="Twitter"
+            >
+              <i className="fa-brands fa-twitter" />
             </Link>
           </div>
         </div>
