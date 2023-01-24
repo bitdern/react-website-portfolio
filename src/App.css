@@ -17,7 +17,7 @@
 }
 
 .blog {
-  background-image: url("/home/acn310427/Documents/Dev/react-website-portfolio/public/images/img-2.jpg");
+  background-image: url("/public/images/img-2.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,7 +26,7 @@
 }
 
 .projects {
-  background-image: url("/home/acn310427/Documents/Dev/react-website-portfolio/public/images/img-1.jpg");
+  background-image: url("/public/images/img-5.jpg");
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
@@ -35,7 +35,7 @@
 }
 
 .reach-out {
-  background-image: url("/home/acn310427/Documents/Dev/react-website-portfolio/public/images/img-8.jpg");
+  background-image: url("/public/images/img-8.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
