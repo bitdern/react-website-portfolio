@@ -6,6 +6,7 @@ import Home from "./components/Pages/Home";
 import Blog from "./components/Pages/Blog";
 import Projects from "./components/Pages/Projects";
 import ReachOut from "./components/Pages/ReachOut";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/projects" element={<Projects />} />
           <Route path="/react-out" element={<ReachOut />} />
         </Routes>
+        <Footer />
       </Router>
     </>
   );
